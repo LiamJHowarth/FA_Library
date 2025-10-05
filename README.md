@@ -1,2 +1,2 @@
-# FA_Library
+# Library
 Advanced Financial Analytics &amp; Engineering
